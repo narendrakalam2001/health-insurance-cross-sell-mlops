@@ -62,8 +62,8 @@ Real numbers from the full training run on all 380,840 rows (`n_test = 76,168`):
 
 | Service | URL |
 |---|---|
-| 🚀 **FastAPI (Swagger UI)** | [https://health-insurance-crosssell-mlops.onrender.com/docs](https://health-insurance-crosssell-mlops.onrender.com/docs) |
-| 📊 **Monitoring Dashboard** | [https://health-insurance-crosssell-mlops.streamlit.app](https://health-insurance-crosssell-mlops.streamlit.app) |
+| 🚀 **FastAPI (Swagger UI)** | [https://health-insurance-cross-sell-mlops.onrender.com/docs](https://health-insurance-cross-sell-mlops.onrender.com/docs) |
+| 📊 **Monitoring Dashboard** | [https://health-insurance-cross-sell-mlops.streamlit.app](https://health-insurance-cross-sell-mlops.streamlit.app) |
 | 📓 **EDA Notebook** | [notebooks/health_insurance_cross_sell_eda.ipynb](notebooks/health_insurance_cross_sell_eda.ipynb) |
 
 > ⚠️ Render free tier: first request may take 30–60 seconds (cold start).
