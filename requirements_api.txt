@@ -1,7 +1,12 @@
 # ============================================================
 # REQUIREMENTS — API deployment only (Render)
-# Stripped of training-only deps (shap, mlflow, catboost)
-# to keep build fast and avoid memory issues on free tier
+# ALL versions pinned to exactly match the local training environment
+# (checked via `pip show`), so the pickled model unpickles identically
+# on Render as it does locally. Unpinned packages (previous version of
+# this file) let Render install whatever the latest release was at
+# build time — joblib and imbalanced-learn silently drifted ahead of
+# the training environment's versions, which is a common, hard-to-spot
+# cause of "works locally, breaks on deploy" model loading failures.
 # ============================================================
 
 fastapi
@@ -11,10 +16,10 @@ pandas==2.1.4
 numpy==1.26.4
 
 scikit-learn==1.3.2
-imbalanced-learn
+imbalanced-learn==0.12.2
 
 xgboost
 lightgbm
 
-joblib
+joblib==1.4.2
 requests
