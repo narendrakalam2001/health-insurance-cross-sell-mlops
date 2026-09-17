@@ -1,0 +1,112 @@
+{
+  "model_version": "v1",
+  "model_name": "ExtraTrees",
+  "trained_at": "2026-09-14 02:09:13",
+  "project": "Health Insurance Cross-Sell Prediction System",
+  "dataset": {
+    "train_fit_size": 243737,
+    "calibration_size": 60935,
+    "test_size": 76168,
+    "response_rate_train": 0.1226
+  },
+  "metrics": {
+    "test_f1": 0.4397,
+    "test_precision": 0.3035,
+    "test_recall": 0.7979,
+    "roc_auc": 0.8404,
+    "ks_statistic": 0.5807,
+    "recall_at_5pct": 0.1462,
+    "lift_at_5pct": 1.1926,
+    "brier_score": 0.1697
+  },
+  "thresholds": {
+    "uncalibrated": 0.6256,
+    "calibrated": 0.2192,
+    "active": 0.2192
+  },
+  "risk_decisions": {
+    "COLD_LEAD_RULE": 35040,
+    "HOT_LEAD_MODEL": 24546,
+    "WARM_LEAD_MODEL": 10401,
+    "COLD_LEAD_MODEL": 6181
+  },
+  "cost_evaluation": {
+    "false_negative_count": 1887,
+    "false_positive_count": 17096,
+    "true_positive_count": 7450,
+    "estimated_missed_revenue": 8393061.6,
+    "wasted_call_cost": 769320.0,
+    "realized_revenue": 35742333.75,
+    "net_estimated_value": 26579952.15,
+    "calls_made": 24546,
+    "calls_saved_pct": 0.6777
+  },
+  "pipeline_config": {
+    "feature_order": [
+      "gender",
+      "vehicle_age",
+      "vehicle_damage",
+      "age_bin",
+      "annual_premium",
+      "policy_sales_channel",
+      "premium_per_vintage_day",
+      "age",
+      "region_code",
+      "vintage",
+      "age_x_damage",
+      "driving_license",
+      "previously_insured",
+      "vehicle_damage_flag",
+      "is_new_vehicle",
+      "is_old_vehicle",
+      "damaged_and_uninsured",
+      "is_young_driver",
+      "high_premium_flag",
+      "long_tenure_customer",
+      "prev_insured_x_new",
+      "license_x_damage"
+    ],
+    "categorical_indices": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "selector_k": 10
+  },
+  "feature_importances": {
+    "damaged_and_uninsured": 0.3150030962973439,
+    "license_x_damage": 0.20526995789135888,
+    "vehicle_damage_flag": 0.14747997803694843,
+    "vehicle_damage": 0.11217957287257035,
+    "previously_insured": 0.06764783226496793,
+    "age_x_damage": 0.06132653756028643,
+    "age": 0.04862885819286447,
+    "region_code": 0.02122775792933415,
+    "policy_sales_channel": 0.020320396604378163,
+    "vintage": 0.0009160123499473824
+  },
+  "shap_top_features": {
+    "damaged_and_uninsured": 0.13377379305028264,
+    "license_x_damage": 0.0935044843623166,
+    "previously_insured": 0.06791825758219097,
+    "age_x_damage": 0.043246702470366875,
+    "vehicle_damage_flag": 0.02887678769065749,
+    "age": 0.026752271242071336,
+    "vehicle_damage": 0.019868578862745054,
+    "region_code": 0.016520560858529727,
+    "policy_sales_channel": 0.011761550520304385,
+    "vintage": 0.0014037457914793242
+  }
+}

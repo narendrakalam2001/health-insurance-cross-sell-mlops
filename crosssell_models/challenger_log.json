@@ -1,0 +1,12 @@
+[
+  {
+    "decision": "PROMOTED",
+    "reason": "No existing champion \u2014 first model auto-promoted",
+    "challenger_name": "ExtraTrees",
+    "challenger_f1": 0.4397,
+    "challenger_roc_auc": 0.8404,
+    "champion_name": null,
+    "champion_f1": null,
+    "evaluated_at": "2026-09-14 02:09:18"
+  }
+]

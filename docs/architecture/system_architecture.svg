@@ -1,0 +1,349 @@
+<svg width="1100" viewBox="0 0 1100 940" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkMjViNTQ1Mi0yYzdmLTRlZjItOGYxYi03ZWZlMWY3MjgyNDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIDPqnRoPWw40V4dODsDrxcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NTgzOTEyNi01ODk3LTQ3MGYtYjRjMC01MDJiNTU2Y2EyODZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoFIn6gtmE+8gdeEPcgGUKZgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8Ol3KX2gSH9BAK0CuJMNrCVO137+E78Yyc5lvJr5jWukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBvB6ZB/mzFJjd8+cjmtcvcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA9l/3/S6/XpRZnWCdPdDgulPxb9inJmaSkMTcuOoKPPGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQyNWI1NDUyLTJjN2YtNGVmMi04ZjFiLTdlZmUxZjcyODI0NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmIzNzVkZTBlLWM3YjktNDdhNi1iYjA0LWYzZTY3YzZiNmU1ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDw6XcpfaBIf0EArQK4kw2sJU7Xfv4TvxjJzmW8mvmNa6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggrxCtZ8l1nTMTZV5+2v89PivqyK2WSnihI3Aumm9uWGGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggIYWYAuYdUo0wxTmpTMAn7cjVsnuX9hyT8JPBXaaoo3h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJf2TLkJHMBPI7XdiF9ZIaI2faezdAmtR9itduJeaLSoW9j8YM/VlIpEgrx2YI4D+zzN2eg77mdpXLwutnegnlE=</c2pa:manifest></metadata>
+
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#4a7fd4" stroke-width="1.5"/>
+    </marker>
+    <marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#8b5cf6" stroke-width="1.5"/>
+    </marker>
+    <marker id="arr3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#f59e0b" stroke-width="1.5"/>
+    </marker>
+    <marker id="arr4" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    </marker>
+  </defs>
+
+  <!-- TITLE -->
+  <text x="550" y="28" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a2e">Health Insurance Cross-Sell Prediction — System Architecture</text>
+
+  <!-- ═══════════════════════════════════════════════════════
+       LAYER 1 — DATA LAYER  (blue)
+  ════════════════════════════════════════════════════════ -->
+  <rect x="10" y="42" width="1080" height="108" rx="8" fill="#0d1b4b" opacity="0.93"/>
+  <text x="18" y="58" font-size="10" font-weight="700" fill="#7eb3f7" letter-spacing="1.5">DATA LAYER</text>
+  <text x="16" y="100" font-size="9" font-weight="600" fill="#4a90d9" transform="rotate(-90,16,100)" text-anchor="middle">DATA</text>
+
+  <!-- Dataset -->
+  <rect x="30" y="64" width="175" height="74" rx="6" fill="#1a3a7a" stroke="#4a7fd4" stroke-width="0.8"/>
+  <text x="117" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#e8f0fe">Cross-Sell Dataset</text>
+  <text x="117" y="104" text-anchor="middle" font-size="10" fill="#93b8f7">train.csv · Kaggle</text>
+  <text x="117" y="118" text-anchor="middle" font-size="10" fill="#93b8f7">380,840 rows · 12.3% response</text>
+
+  <line x1="205" y1="101" x2="223" y2="101" stroke="#4a7fd4" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Validation -->
+  <rect x="225" y="64" width="175" height="74" rx="6" fill="#1a3a7a" stroke="#4a7fd4" stroke-width="0.8"/>
+  <text x="312" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#e8f0fe">Data Validation</text>
+  <text x="312" y="104" text-anchor="middle" font-size="10" fill="#93b8f7">validate_input_data()</text>
+  <text x="312" y="118" text-anchor="middle" font-size="10" fill="#93b8f7">schema · nulls · 269 dupes</text>
+
+  <line x1="400" y1="101" x2="418" y2="101" stroke="#4a7fd4" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Feature Engineering -->
+  <rect x="420" y="64" width="175" height="74" rx="6" fill="#1a3a7a" stroke="#4a7fd4" stroke-width="0.8"/>
+  <text x="507" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#e8f0fe">Feature Engineering</text>
+  <text x="507" y="104" text-anchor="middle" font-size="10" fill="#93b8f7">12 engineered features</text>
+  <text x="507" y="118" text-anchor="middle" font-size="10" fill="#93b8f7">22 total model features</text>
+
+  <line x1="595" y1="101" x2="613" y2="101" stroke="#4a7fd4" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Leakage Check -->
+  <rect x="615" y="64" width="175" height="74" rx="6" fill="#1a3a7a" stroke="#4a7fd4" stroke-width="0.8"/>
+  <text x="702" y="88" text-anchor="middle" font-size="12" font-weight="600" fill="#e8f0fe">Leakage Detection</text>
+  <text x="702" y="104" text-anchor="middle" font-size="10" fill="#93b8f7">detect_leakage()</text>
+  <text x="702" y="118" text-anchor="middle" font-size="10" fill="#93b8f7">run BEFORE training</text>
+
+  <line x1="790" y1="101" x2="808" y2="101" stroke="#4a7fd4" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Split -->
+  <rect x="810" y="64" width="260" height="74" rx="6" fill="#132e63" stroke="#6ea8f0" stroke-width="1"/>
+  <text x="940" y="86" text-anchor="middle" font-size="12" font-weight="600" fill="#e8f0fe">Train / Calibration / Test Split</text>
+  <text x="940" y="103" text-anchor="middle" font-size="10" fill="#93b8f7">243,737  ·  60,935  ·  76,168</text>
+  <text x="940" y="119" text-anchor="middle" font-size="10" fill="#93b8f7">stratified on response · no SMOTE on cal/test</text>
+
+  <!-- layer connector -->
+  <line x1="550" y1="150" x2="550" y2="166" stroke="#6b7280" stroke-width="1.5" marker-end="url(#arr4)"/>
+
+  <!-- ═══════════════════════════════════════════════════════
+       LAYER 2 — TRAINING PIPELINE  (purple)
+  ════════════════════════════════════════════════════════ -->
+  <rect x="10" y="168" width="1080" height="196" rx="8" fill="#1e0a3c" opacity="0.95"/>
+  <text x="18" y="184" font-size="10" font-weight="700" fill="#c49ef7" letter-spacing="1.5">TRAINING PIPELINE</text>
+  <text x="16" y="270" font-size="9" font-weight="600" fill="#9b6de0" transform="rotate(-90,16,270)" text-anchor="middle">TRAINING</text>
+
+  <!-- Row 1 -->
+  <rect x="28" y="190" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="107" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">Dual Preprocessor</text>
+  <text x="107" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">Clipper+Power+Scaler</text>
+  <text x="107" y="240" text-anchor="middle" font-size="9" fill="#a78bfa">scaled + unscaled</text>
+
+  <line x1="186" y1="224" x2="198" y2="224" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="200" y="190" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="279" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">SMOTENC Balancing</text>
+  <text x="279" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">15 categorical indices</text>
+  <text x="279" y="240" text-anchor="middle" font-size="9" fill="#a78bfa">train fold only</text>
+
+  <line x1="358" y1="224" x2="370" y2="224" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="372" y="190" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="451" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">SelectKBest</text>
+  <text x="451" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">mutual_info_classif</text>
+  <text x="451" y="240" text-anchor="middle" font-size="10" fill="#c4b5fd">k=10 features</text>
+
+  <line x1="530" y1="224" x2="542" y2="224" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="544" y="190" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="623" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">14 Models Tuned</text>
+  <text x="623" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">RandomizedSearchCV</text>
+  <text x="623" y="240" text-anchor="middle" font-size="10" fill="#c4b5fd">StratifiedKFold CV</text>
+
+  <line x1="702" y1="224" x2="714" y2="224" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="716" y="190" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="795" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">Subsample Search</text>
+  <text x="795" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">40K stratified sample</text>
+  <text x="795" y="240" text-anchor="middle" font-size="9" fill="#a78bfa">refit on full 243K</text>
+
+  <!-- Threshold badge row1 right -->
+  <rect x="888" y="190" width="180" height="68" rx="6" fill="#1a0845" stroke="#7c3aed" stroke-width="1.2"/>
+  <text x="978" y="211" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">Threshold Tuning</text>
+  <text x="978" y="226" text-anchor="middle" font-size="10" fill="#c4b5fd">F1-optimal search</text>
+  <text x="978" y="240" text-anchor="middle" font-size="10" fill="#c4b5fd">active thr = 0.2192</text>
+
+  <!-- Row 2 -->
+  <rect x="28" y="278" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="107" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">Isotonic Calibration</text>
+  <text x="107" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">holdout cal set</text>
+  <text x="107" y="328" text-anchor="middle" font-size="9" fill="#a78bfa">Brier 0.170 → 0.089</text>
+
+  <line x1="186" y1="312" x2="198" y2="312" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="200" y="278" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="279" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">Cost Evaluation</text>
+  <text x="279" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">missed commission vs</text>
+  <text x="279" y="328" text-anchor="middle" font-size="10" fill="#c4b5fd">telecalling cost</text>
+
+  <line x1="358" y1="312" x2="370" y2="312" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="372" y="278" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="451" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">SHAP + Feature Imp</text>
+  <text x="451" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">TreeExplainer</text>
+  <text x="451" y="328" text-anchor="middle" font-size="9" fill="#a78bfa">damaged_and_uninsured top</text>
+
+  <line x1="530" y1="312" x2="542" y2="312" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="544" y="278" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="623" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">PSI Drift Report</text>
+  <text x="623" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">edge-based PSI</text>
+  <text x="623" y="328" text-anchor="middle" font-size="9" fill="#a78bfa">train vs test features</text>
+
+  <line x1="702" y1="312" x2="714" y2="312" stroke="#8b5cf6" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+  <rect x="716" y="278" width="158" height="68" rx="6" fill="#2d1060" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="795" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">MLflow + Model Card</text>
+  <text x="795" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">experiment tracking</text>
+  <text x="795" y="328" text-anchor="middle" font-size="9" fill="#a78bfa">JSON · Google standard</text>
+
+  <!-- 52 pytest badge -->
+  <rect x="888" y="278" width="180" height="68" rx="6" fill="#1a0845" stroke="#7c3aed" stroke-width="1.2"/>
+  <text x="978" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#e9d5ff">52 Pytest Tests</text>
+  <text x="978" y="314" text-anchor="middle" font-size="10" fill="#c4b5fd">Clipper·PSI·Metrics</text>
+  <text x="978" y="328" text-anchor="middle" font-size="10" fill="#c4b5fd">LeadEngine·Config·Bands</text>
+
+  <!-- layer connector -->
+  <line x1="550" y1="364" x2="550" y2="380" stroke="#6b7280" stroke-width="1.5" marker-end="url(#arr4)"/>
+
+  <!-- ═══════════════════════════════════════════════════════
+       LAYER 3 — MODEL OPS  (green/teal)
+  ════════════════════════════════════════════════════════ -->
+  <rect x="10" y="382" width="1080" height="148" rx="8" fill="#042b1e" opacity="0.96"/>
+  <text x="18" y="398" font-size="10" font-weight="700" fill="#6ee7b7" letter-spacing="1.5">MODEL OPS — CHAMPION vs CHALLENGER</text>
+  <text x="16" y="460" font-size="9" font-weight="600" fill="#10b981" transform="rotate(-90,16,460)" text-anchor="middle">MODEL OPS</text>
+
+  <!-- Champion box -->
+  <rect x="28" y="406" width="210" height="108" rx="6" fill="#064e35" stroke="#10b981" stroke-width="1.5"/>
+  <text x="133" y="428" text-anchor="middle" font-size="13" font-weight="700" fill="#6ee7b7">CHAMPION</text>
+  <text x="133" y="446" text-anchor="middle" font-size="11" fill="#34d399">ExtraTrees  F1 = 0.4397</text>
+  <text x="133" y="462" text-anchor="middle" font-size="11" fill="#34d399">ROC-AUC = 0.8404</text>
+  <text x="133" y="478" text-anchor="middle" font-size="11" fill="#34d399">KS = 0.5807 · PR-AUC = 0.3231</text>
+  <text x="133" y="494" text-anchor="middle" font-size="10" fill="#6ee7b7">latest_model.json</text>
+
+  <!-- VS -->
+  <text x="295" y="468" text-anchor="middle" font-size="22" font-weight="700" fill="#6ee7b7">VS</text>
+
+  <!-- Challenger box -->
+  <rect x="318" y="406" width="210" height="108" rx="6" fill="#042b1e" stroke="#6ee7b7" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="423" y="428" text-anchor="middle" font-size="13" font-weight="700" fill="#a7f3d0">CHALLENGER</text>
+  <text x="423" y="448" text-anchor="middle" font-size="11" fill="#6ee7b7">New training run</text>
+  <text x="423" y="466" text-anchor="middle" font-size="11" fill="#6ee7b7">Must beat 3 gates</text>
+  <text x="423" y="484" text-anchor="middle" font-size="11" fill="#6ee7b7">challenger_log.json</text>
+
+  <!-- Gate 1 -->
+  <rect x="548" y="406" width="158" height="46" rx="6" fill="#065f46" stroke="#10b981" stroke-width="0.8"/>
+  <text x="627" y="424" text-anchor="middle" font-size="11" font-weight="600" fill="#a7f3d0">Gate 1: F1</text>
+  <text x="627" y="442" text-anchor="middle" font-size="10" fill="#6ee7b7">improvement ≥ 0.005</text>
+
+  <!-- Gate 2 -->
+  <rect x="548" y="460" width="158" height="46" rx="6" fill="#065f46" stroke="#10b981" stroke-width="0.8"/>
+  <text x="627" y="478" text-anchor="middle" font-size="11" font-weight="600" fill="#a7f3d0">Gate 2: ROC-AUC</text>
+  <text x="627" y="496" text-anchor="middle" font-size="10" fill="#6ee7b7">≥ 0.83</text>
+
+  <!-- Gate 3 -->
+  <rect x="720" y="406" width="158" height="46" rx="6" fill="#065f46" stroke="#10b981" stroke-width="0.8"/>
+  <text x="799" y="424" text-anchor="middle" font-size="11" font-weight="600" fill="#a7f3d0">Gate 3: Gen Gap</text>
+  <text x="799" y="442" text-anchor="middle" font-size="10" fill="#6ee7b7">train-test gap ≤ 0.10</text>
+
+  <!-- PROMOTED badge -->
+  <rect x="720" y="460" width="158" height="46" rx="6" fill="#047857" stroke="#34d399" stroke-width="1.2"/>
+  <text x="799" y="478" text-anchor="middle" font-size="11" font-weight="700" fill="#ecfdf5">PROMOTED</text>
+  <text x="799" y="494" text-anchor="middle" font-size="10" fill="#a7f3d0">challenger_log.json</text>
+
+  <!-- Model Card info -->
+  <rect x="892" y="406" width="185" height="108" rx="6" fill="#064e35" stroke="#34d399" stroke-width="0.8"/>
+  <text x="984" y="428" text-anchor="middle" font-size="11" font-weight="700" fill="#6ee7b7">Model Card</text>
+  <text x="984" y="446" text-anchor="middle" font-size="10" fill="#a7f3d0">model_card_path stored</text>
+  <text x="984" y="462" text-anchor="middle" font-size="10" fill="#a7f3d0">in latest_model.json</text>
+  <text x="984" y="478" text-anchor="middle" font-size="10" fill="#a7f3d0">F1 · ROC-AUC · KS · Brier</text>
+  <text x="984" y="494" text-anchor="middle" font-size="10" fill="#a7f3d0">cost eval · lead split</text>
+
+  <!-- layer connector -->
+  <line x1="550" y1="530" x2="550" y2="546" stroke="#6b7280" stroke-width="1.5" marker-end="url(#arr4)"/>
+
+  <!-- ═══════════════════════════════════════════════════════
+       LAYER 4 — SERVING LAYER  (amber/orange)
+  ════════════════════════════════════════════════════════ -->
+  <rect x="10" y="548" width="1080" height="128" rx="8" fill="#2d1500" opacity="0.96"/>
+  <text x="18" y="564" font-size="10" font-weight="700" fill="#fbbf24" letter-spacing="1.5">SERVING LAYER</text>
+  <text x="16" y="616" font-size="9" font-weight="600" fill="#d97706" transform="rotate(-90,16,616)" text-anchor="middle">SERVING</text>
+
+  <!-- Model Loader -->
+  <rect x="28" y="572" width="175" height="88" rx="6" fill="#451a00" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="115" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">Model Loader</text>
+  <text x="115" y="610" text-anchor="middle" font-size="10" fill="#fbbf24">load_latest_model()</text>
+  <text x="115" y="625" text-anchor="middle" font-size="9" fill="#fbbf24">crosssell_model_ExtraTrees</text>
+  <text x="115" y="640" text-anchor="middle" font-size="10" fill="#fbbf24">joblib.load()</text>
+
+  <line x1="203" y1="616" x2="216" y2="616" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+
+  <!-- Prediction Service -->
+  <rect x="218" y="572" width="175" height="88" rx="6" fill="#451a00" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="305" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">Prediction Service</text>
+  <text x="305" y="610" text-anchor="middle" font-size="10" fill="#fbbf24">prepare_features()</text>
+  <text x="305" y="625" text-anchor="middle" font-size="10" fill="#fbbf24">predict_customer()</text>
+  <text x="305" y="640" text-anchor="middle" font-size="9" fill="#fbbf24">same FE as training</text>
+
+  <line x1="393" y1="616" x2="406" y2="616" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+
+  <!-- Lead Engine -->
+  <rect x="408" y="572" width="175" height="88" rx="6" fill="#451a00" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="495" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">Lead Engine</text>
+  <text x="495" y="610" text-anchor="middle" font-size="10" fill="#fbbf24">HOT · WARM · COLD</text>
+  <text x="495" y="625" text-anchor="middle" font-size="9" fill="#fbbf24">ALREADY_VEHICLE_INSURED</text>
+  <text x="495" y="640" text-anchor="middle" font-size="9" fill="#fbbf24">NO_DRIVING_LICENSE</text>
+
+  <line x1="583" y1="616" x2="596" y2="616" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+
+  <!-- FastAPI -->
+  <rect x="598" y="572" width="175" height="88" rx="6" fill="#451a00" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="685" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">FastAPI</text>
+  <text x="685" y="610" text-anchor="middle" font-size="10" fill="#fbbf24">POST /predict</text>
+  <text x="685" y="625" text-anchor="middle" font-size="9" fill="#fbbf24">GET /health · /model_info</text>
+  <text x="685" y="640" text-anchor="middle" font-size="10" fill="#fbbf24">Render deployed</text>
+
+  <line x1="773" y1="616" x2="786" y2="616" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+
+  <!-- Customer Simulator -->
+  <rect x="788" y="572" width="175" height="88" rx="6" fill="#451a00" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="875" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">Customer Simulator</text>
+  <text x="875" y="610" text-anchor="middle" font-size="10" fill="#fbbf24">3 scenarios</text>
+  <text x="875" y="625" text-anchor="middle" font-size="9" fill="#fbbf24">random · high · low intent</text>
+  <text x="875" y="640" text-anchor="middle" font-size="10" fill="#fbbf24">health pre-check</text>
+
+  <line x1="963" y1="616" x2="976" y2="616" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+
+  <!-- Response -->
+  <rect x="978" y="572" width="100" height="88" rx="6" fill="#3d1500" stroke="#fbbf24" stroke-width="1"/>
+  <text x="1028" y="594" text-anchor="middle" font-size="11" font-weight="600" fill="#fde68a">Response</text>
+  <text x="1028" y="612" text-anchor="middle" font-size="9" fill="#fbbf24">cross_sell_prob</text>
+  <text x="1028" y="627" text-anchor="middle" font-size="9" fill="#fbbf24">propensity_band</text>
+  <text x="1028" y="642" text-anchor="middle" font-size="9" fill="#fbbf24">decision</text>
+
+  <!-- layer connector -->
+  <line x1="550" y1="676" x2="550" y2="692" stroke="#6b7280" stroke-width="1.5" marker-end="url(#arr4)"/>
+
+  <!-- ═══════════════════════════════════════════════════════
+       LAYER 5 — MONITORING  (red/pink)
+  ════════════════════════════════════════════════════════ -->
+  <rect x="10" y="694" width="1080" height="228" rx="8" fill="#2d0a0a" opacity="0.96"/>
+  <text x="18" y="710" font-size="10" font-weight="700" fill="#fca5a5" letter-spacing="1.5">MONITORING LAYER — STREAMLIT DASHBOARD</text>
+  <text x="16" y="810" font-size="9" font-weight="600" fill="#ef4444" transform="rotate(-90,16,810)" text-anchor="middle">MONITORING</text>
+
+  <!-- Real-Time Alerts -->
+  <rect x="28" y="718" width="180" height="188" rx="6" fill="#5a0a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <text x="118" y="738" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">Real-Time Alerts</text>
+  <text x="118" y="754" text-anchor="middle" font-size="10" fill="#fca5a5">Avg score &gt; 0.25 alert</text>
+  <text x="118" y="769" text-anchor="middle" font-size="10" fill="#fca5a5">Hot-lead rate &gt; 30%</text>
+  <text x="118" y="784" text-anchor="middle" font-size="10" fill="#fca5a5">Rule-skip rate &gt; 65%</text>
+  <text x="118" y="799" text-anchor="middle" font-size="10" fill="#fca5a5">PSI ≥ 0.20 critical</text>
+  <text x="118" y="814" text-anchor="middle" font-size="10" fill="#fca5a5">PSI ≥ 0.10 moderate</text>
+
+  <!-- Champion History -->
+  <rect x="222" y="718" width="180" height="188" rx="6" fill="#5a0a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <text x="312" y="738" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">Champion History</text>
+  <text x="312" y="754" text-anchor="middle" font-size="10" fill="#fca5a5">Latest challenger name</text>
+  <text x="312" y="769" text-anchor="middle" font-size="10" fill="#fca5a5">3-gate status visual</text>
+  <text x="312" y="784" text-anchor="middle" font-size="10" fill="#fca5a5">Full history table</text>
+  <text x="312" y="799" text-anchor="middle" font-size="9" fill="#f87171">F1 · ROC-AUC · Gap gates</text>
+
+  <!-- KPI Metrics -->
+  <rect x="416" y="718" width="180" height="188" rx="6" fill="#5a0a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <text x="506" y="738" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">KPI Metrics + Charts</text>
+  <text x="506" y="754" text-anchor="middle" font-size="10" fill="#fca5a5">Actual response rate</text>
+  <text x="506" y="769" text-anchor="middle" font-size="10" fill="#fca5a5">Hot / Warm / Cold rates</text>
+  <text x="506" y="784" text-anchor="middle" font-size="10" fill="#fca5a5">Propensity distribution</text>
+  <text x="506" y="799" text-anchor="middle" font-size="10" fill="#fca5a5">Decision distribution</text>
+  <text x="506" y="814" text-anchor="middle" font-size="10" fill="#fca5a5">Band breakdown</text>
+
+  <!-- PSI Drift -->
+  <rect x="610" y="718" width="180" height="188" rx="6" fill="#5a0a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <text x="700" y="738" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">PSI Drift Report</text>
+  <text x="700" y="754" text-anchor="middle" font-size="10" fill="#fca5a5">Per-feature PSI score</text>
+  <text x="700" y="769" text-anchor="middle" font-size="10" fill="#fca5a5">Horizontal bar chart</text>
+  <text x="700" y="784" text-anchor="middle" font-size="10" fill="#fca5a5">🟢 OK / 🟡 MODERATE</text>
+  <text x="700" y="799" text-anchor="middle" font-size="9" fill="#f87171">🔴 CRITICAL · retrain</text>
+
+  <!-- Recent Predictions -->
+  <rect x="804" y="718" width="180" height="92" rx="6" fill="#5a0a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <text x="894" y="738" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">Recent Predictions</text>
+  <text x="894" y="754" text-anchor="middle" font-size="10" fill="#fca5a5">Last 20 API calls</text>
+  <text x="894" y="769" text-anchor="middle" font-size="9" fill="#fca5a5">prob · band · decision</text>
+  <text x="894" y="784" text-anchor="middle" font-size="10" fill="#fca5a5">rule_triggered col</text>
+  <text x="894" y="799" text-anchor="middle" font-size="10" fill="#fca5a5">prediction_logs.csv</text>
+
+  <!-- Business impact callout -->
+  <rect x="804" y="820" width="180" height="82" rx="6" fill="#450a0a" stroke="#f87171" stroke-width="1"/>
+  <text x="894" y="840" text-anchor="middle" font-size="11" font-weight="700" fill="#fecaca">Business Impact</text>
+  <text x="894" y="857" text-anchor="middle" font-size="10" fill="#fca5a5">67.8% cold calls saved</text>
+  <text x="894" y="872" text-anchor="middle" font-size="10" fill="#fca5a5">TP 7,450 · FN 1,887</text>
+  <text x="894" y="888" text-anchor="middle" font-size="10" fill="#fca5a5">net value ≈ ₹2.65 Cr</text>
+
+  <!-- Deployment boxes -->
+  <rect x="998" y="718" width="82" height="60" rx="6" fill="#450a0a" stroke="#dc2626" stroke-width="0.8"/>
+  <text x="1039" y="741" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">Render</text>
+  <text x="1039" y="757" text-anchor="middle" font-size="10" fill="#fca5a5">FastAPI</text>
+  <text x="1039" y="770" text-anchor="middle" font-size="9" fill="#fca5a5">Auto-deploy</text>
+
+  <rect x="998" y="788" width="82" height="60" rx="6" fill="#450a0a" stroke="#dc2626" stroke-width="0.8"/>
+  <text x="1039" y="811" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">Streamlit</text>
+  <text x="1039" y="827" text-anchor="middle" font-size="10" fill="#fca5a5">Dashboard</text>
+  <text x="1039" y="840" text-anchor="middle" font-size="9" fill="#fca5a5">Cloud deploy</text>
+
+  <!-- CI/CD badge -->
+  <rect x="998" y="858" width="82" height="44" rx="6" fill="#450a0a" stroke="#dc2626" stroke-width="0.8"/>
+  <text x="1039" y="877" text-anchor="middle" font-size="11" font-weight="600" fill="#fecaca">GitHub CI</text>
+  <text x="1039" y="893" text-anchor="middle" font-size="9" fill="#fca5a5">pytest on push</text>
+
+</svg>

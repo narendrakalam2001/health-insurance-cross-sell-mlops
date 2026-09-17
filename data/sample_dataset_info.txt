@@ -1,0 +1,22 @@
+Health Insurance Cross-Sell Prediction
+Kaggle Health Insurance Cross Sell Prediction
+======================================================================
+
+Original rows: 381,109
+Original columns: 12
+Sample rows: 50,000
+Sample columns: 12
+
+Target:
+Response = 1 -> Customer interested in Vehicle Insurance
+Response = 0 -> Customer not interested in Vehicle Insurance
+
+Sampling method:
+Stratified sampling by Response target.
+Original class distribution approximately preserved.
+
+Problem type:
+Binary Classification
+
+Recommended evaluation:
+ROC-AUC, PR-AUC, Recall@K, Lift@K

@@ -1,0 +1,59 @@
+# ============================================================
+# .GITIGNORE — Health Insurance Cross-Sell ML System
+# ============================================================
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+env/
+.env
+.venv/
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Models ────────────────────────────────────────────────────
+# .joblib pushed to GitHub so Render can load it at startup
+# If file becomes too large (>100MB) use Git LFS instead
+!crosssell_models/
+
+# ── Data ──────────────────────────────────────────────────────
+# Real dataset — never push (large, download from Kaggle yourself)
+data/health_insurance_train_real.csv
+data/*.zip
+
+# Sample synthetic file — push to GitHub (recruiters can see data structure)
+# data/health_insurance_train_sample.csv   ← intentionally NOT ignored
+
+# ── Logs ──────────────────────────────────────────────────────
+logs/*
+!logs/.gitkeep
+*.log
+
+# ── MLflow ────────────────────────────────────────────────────
+mlruns/
+mlartifacts/
+
+# ── Pytest ────────────────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp

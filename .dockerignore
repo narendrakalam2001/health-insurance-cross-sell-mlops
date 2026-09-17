@@ -1,0 +1,34 @@
+# ============================================================
+# .dockerignore — Health Insurance Cross-Sell ML System
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+.venv/
+venv/
+env/
+
+notebooks/
+*.ipynb
+
+docs/
+
+tests/
+
+.git/
+.gitignore
+
+.vscode/
+.idea/
+
+.env
+*.env
+
+data/health_insurance_train_real.csv
+
+.DS_Store
+Thumbs.db
